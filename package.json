@@ -1,0 +1,11 @@
+{
+  "name": "trabajofinalgp",
+  "version": "1.0.0",
+  "description": "Trabajo final de gestion de paquetes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Alberto Zegarra Mamani",
+  "license": "ISC"
+}
